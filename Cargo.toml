@@ -1,0 +1,8 @@
+[package]
+name = "tcp_client"
+version = "0.1.0"
+authors = ["cutewen"]
+
+[dependencies]
+time="0.1"
+package_handler={path = "../package_handler"}
